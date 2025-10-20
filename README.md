@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me  
-I'm an educator, entrepreneur, and software engineer with over **10 years of experience** helping people around the world start and grow their IT careers.  
+I'm an educator, entrepreneur, and software engineer with over **years of experience** helping people around the world start and grow their IT careers.  
 As the founder of **IT-Bulls** and **Learn-IT University**, my mission is to make high-quality technical education accessible to everyone — from beginners to professionals.  
 
 💡 Over **1,178,000+ learners** have joined my courses on [Udemy](https://www.udemy.com/user/andrii-piatakha/), leaving **49,000+ reviews** and countless success stories from students who landed their first IT jobs.
@@ -34,18 +34,47 @@ As the founder of **IT-Bulls** and **Learn-IT University**, my mission is to mak
 ![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=white)
 
+
+---
+
+### 🧩 IT-Bulls AI Applications
+A growing collection of **lightweight, free AI-powered tools** designed to make daily tasks more creative, productive, and fun.  
+Explore them all at 🌐 [ai-apps.it-bulls.com](https://ai-apps.it-bulls.com/)
+
+| App | Description |
+|------|--------------|
+| 💬 **Excuse-IT** | Instantly craft polite, believable excuses for any situation in IT or Agile environments. |
+| 🤖 **Learn IT Bot** | Practice coding, languages, and tech skills with **AI-generated interactive tasks and quizzes.** |
+| ❤️ **Love Alibi** | Generate creative cover stories for romantic surprises and date adventures. |
+| 🎲 **Date-Night Dares** | Spice up couple time with **playful challenges and prompts** for partners. |
+| 🎭 **Truth-or-Dare** | Classic party game reimagined with **AI-powered fun and multilingual support.** |
+| 💌 **Mars-Venus Translator** | Decode relationship messages and bridge communication gaps with humor and empathy. |
+| 🧾 **SINGLE Business Analyst** | Gather, clarify, and document requirements to **keep IT projects on track.** |
+| 🧑‍💼 **SINGLE Secretary** | Your personal AI assistant for **scheduling, notes, and daily follow-ups.** |
+| 📊 **SINGLE Project Manager** | Integrate with Jira, plan milestones, assign tasks, and **monitor progress seamlessly.** |
+| 🗣️ **Lingua Tutor** | Practice speaking, grammar, and vocabulary with **AI conversation partner.** |
+| 🌍 **AI Translator** | Translate instantly across **100+ languages** with smart detection, clean UI, and one-click copy. Completely **FREE**. |
+
+💡 These apps are built on top of [Vintarok APIs](https://rapidapi.com/organization/vintarok), showcasing the real-world use cases of my AI technology — from education and productivity to entertainment and creativity.
+
 ---
 
 ### 💼 Featured Projects
+Explore a collection of smart, multilingual, and AI-powered APIs — all designed to help developers build faster, smarter, and more interactive apps.
+
 | Project | Description |
 |----------|--------------|
-| 🎰 **Poker EV Calculator** | Calculate odds, equity and hand strengths in real-time. |
-| 💬 **AI Sentiment & Toxicity Analyzer** | Detect tone, hate speech, or toxicity in any language. |
-| 🌍 **AI Translator** | Translate and localize content across 100+ languages. |
-| 🪐 **Horoscope Generator API** | Fun, serious, and love-mode horoscopes in multiple languages. |
-| 🎭 **Truth or Dare AI** | Dynamic multilingual game API with creative dares and truths. |
-| 📸 **Image Convert & Compress** | Smart image optimization (WebP, AVIF, EXIF-cleaning). |
-| 📚 **Udemy Coupons API** | Fetch latest course coupons and discounts for Udemy creators. |
+| 💬 **AI Text Moderation, Toxicity & Aspect Analyzer** | Multilingual AI API for analyzing **sentiment, toxicity, emotion, and aspect-based opinions** — ideal for comments, reviews, and feedback moderation. |
+| 🎞️ **Smart, Adaptive & Ultra-Fast Image Converter** | Compress, resize, and convert images intelligently (JPEG ↔ WebP/AVIF/PNG) with **smart adaptive quality control** and EXIF-cleaning. |
+| 🧾 **AI Meeting Minutes Suite** | Generate AI-powered **meeting summaries, action items, and minutes** from raw text, audio transcripts, or chat logs. Perfect for business teams. |
+| 🧠 **AI Learning Engine – Task Creation & Checker** | Create, check, and evaluate quizzes, exercises, and open questions with instant **AI feedback, explanations, and difficulty scaling.** |
+| 🎭 **Multilingual Truth or Dare – Party & Fun Game API** | Generate fun, flirty, or party-ready “Truth or Dare” prompts in **any language** — perfect for game developers and entertainment bots. |
+| 🪐 **Multilingual AI Zodiac – Customized Horoscope Generator** | AI-powered horoscope generator offering **daily, love, career, and fun modes** for all zodiac signs, available in 60+ languages. |
+| 🎓 **Udemy Coupons, Courses & Instructors API** | Fetch **live Udemy deals, coupons, and instructor data** from verified partners — ideal for education and affiliate projects. |
+| 🌐 **Advanced Multilanguage AI Translator** | Neural-powered translation API for **100+ world languages**, delivering context-aware and tone-consistent results. |
+| 🌍 **World Fun Facts – All-Languages API** | Discover interesting facts from around the world in 60+ languages — great for trivia apps, chatbots, and daily fact feeds. |
+| 🎰 **Poker Odds + Equity / EV Calculator & Simulator** | Calculate real-time **poker win/tie probabilities, hand equities, and expected values** for multi-player scenarios using Monte Carlo simulations. |
+| 🧮 **Vintarok API Suite (FREE Collection)** | Access all APIs from one hub — including text analysis, translation, education, entertainment, and image tools. Available on [RapidAPI](https://rapidapi.com/organization/vintarok). |
 
 👉 Explore all APIs here: **[Vintarok API on RapidAPI](https://rapidapi.com/organization/vintarok)**  
 
@@ -65,8 +94,8 @@ As the founder of **IT-Bulls** and **Learn-IT University**, my mission is to mak
 ---
 
 ### 🌟 Fun Facts
-- 🧑‍🏫 My flagship course *“Java from Zero to First Job”* helped thousands land their first IT job.  
-- 🌏 My students come from over 100 countries.  
+- 🧑‍🏫 My flagship course *“Java from Zero to First Job”* helped hundreds of thousands land their first IT job.  
+- 🌏 My students come from over 200 countries.  
 - 🧩 I believe in **learning by doing**, and every course I create includes **real projects**.  
 
 ---

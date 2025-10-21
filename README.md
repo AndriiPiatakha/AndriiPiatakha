@@ -43,17 +43,17 @@ Explore them all at 🌐 [ai-apps.it-bulls.com](https://ai-apps.it-bulls.com/)
 
 | App | Description |
 |------|--------------|
-| 💬 **Excuse-IT** | Instantly craft polite, believable excuses for any situation in IT or Agile environments. |
-| 🤖 **Learn IT Bot** | Practice coding, languages, and tech skills with **AI-generated interactive tasks and quizzes.** |
-| ❤️ **Love Alibi** | Generate creative cover stories for romantic surprises and date adventures. |
-| 🎲 **Date-Night Dares** | Spice up couple time with **playful challenges and prompts** for partners. |
-| 🎭 **Truth-or-Dare** | Classic party game reimagined with **AI-powered fun and multilingual support.** |
-| 💌 **Mars-Venus Translator** | Decode relationship messages and bridge communication gaps with humor and empathy. |
-| 🧾 **SINGLE Business Analyst** | Gather, clarify, and document requirements to **keep IT projects on track.** |
-| 🧑‍💼 **SINGLE Secretary** | Your personal AI assistant for **scheduling, notes, and daily follow-ups.** |
-| 📊 **SINGLE Project Manager** | Integrate with Jira, plan milestones, assign tasks, and **monitor progress seamlessly.** |
-| 🗣️ **Lingua Tutor** | Practice speaking, grammar, and vocabulary with **AI conversation partner.** |
-| 🌍 **AI Translator** | Translate instantly across **100+ languages** with smart detection, clean UI, and one-click copy. Completely **FREE**. |
+| 💬 [**Excuse-IT**](https://ai-apps.it-bulls.com/excuse-it/) | Instantly craft polite, believable excuses for any situation in IT or Agile environments. |
+| 🤖 [**Learn IT Bot**](https://ai-apps.it-bulls.com/learn-it-bot/) | Practice coding, languages, and tech skills with **AI-generated interactive tasks and quizzes.** |
+| ❤️ [**Love Alibi**](https://ai-apps.it-bulls.com/love-alibi/) | Generate creative cover stories for romantic surprises and date adventures. |
+| 🎲 [**Date-Night Dares**](https://ai-apps.it-bulls.com/date-night-dares/) | Spice up couple time with **playful challenges and prompts** for partners. |
+| 🎭 [**Truth-or-Dare**](https://ai-apps.it-bulls.com/truth-or-dare/) | Classic party game reimagined with **AI-powered fun and multilingual support.** |
+| 💌 [**Mars-Venus Translator**](https://ai-apps.it-bulls.com/mars-venus-translator/) | Decode relationship messages and bridge communication gaps with humor and empathy. |
+| 🧾 [**SINGLE Business Analyst**](https://chatgpt.com/g/g-c02T8BVWn-single-business-analyst-manage-requirements) | Gather, clarify, and document requirements to **keep IT projects on track.** |
+| 🧑‍💼 [**SINGLE Secretary**](https://chatgpt.com/g/g-aKEifAWS0-single-secretary-task-management-system) | Your personal AI assistant for **scheduling, notes, and daily follow-ups.** |
+| 📊 [**SINGLE Project Manager**](https://chatgpt.com/g/g-MdEM4XcKY-single-project-manager-manage-your-team) | Integrate with Jira, plan milestones, assign tasks, and **monitor progress seamlessly.** |
+| 🗣️ [**Lingua Tutor**](https://chatgpt.com/g/g-ie90pjj6O-linguatutor-learn-languages) | Practice speaking, grammar, and vocabulary with **AI conversation partner.** |
+| 🌍 [**AI Translator**](https://ai-apps.it-bulls.com/ai-translator) | Translate instantly across **100+ languages** with smart detection, clean UI, and one-click copy. Completely **FREE**. |
 
 💡 These apps are built on top of [Vintarok APIs](https://rapidapi.com/organization/vintarok), showcasing the real-world use cases of my AI technology — from education and productivity to entertainment and creativity.
 

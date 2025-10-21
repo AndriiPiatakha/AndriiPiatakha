@@ -120,7 +120,7 @@ If you find my projects useful, consider supporting my work:
 
 ### 🤝 Let’s Collaborate
 I’m open to partnerships, media collaborations, or technical consultations.  
-📧 Reach me directly: Find my contact details at [IT-Bulls](https://it-bulls.com)** 
+📧 Reach me directly: Find my contact details at **[IT-Bulls](https://it-bulls.com)** 
 
 <!--
 **AndriiPiatakha/AndriiPiatakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

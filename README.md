@@ -64,19 +64,19 @@ Explore a collection of smart, multilingual, and AI-powered APIs — all designe
 
 | Project | Description |
 |----------|--------------|
-| 💬 **AI Text Moderation, Toxicity & Aspect Analyzer** | Multilingual AI API for analyzing **sentiment, toxicity, emotion, and aspect-based opinions** — ideal for comments, reviews, and feedback moderation. |
-| 🎞️ **Smart, Adaptive & Ultra-Fast Image Converter** | Compress, resize, and convert images intelligently (JPEG ↔ WebP/AVIF/PNG) with **smart adaptive quality control** and EXIF-cleaning. |
-| 🧾 **AI Meeting Minutes Suite** | Generate AI-powered **meeting summaries, action items, and minutes** from raw text, audio transcripts, or chat logs. Perfect for business teams. |
-| 🧠 **AI Learning Engine – Task Creation & Checker** | Create, check, and evaluate quizzes, exercises, and open questions with instant **AI feedback, explanations, and difficulty scaling.** |
-| 🎭 **Multilingual Truth or Dare – Party & Fun Game API** | Generate fun, flirty, or party-ready “Truth or Dare” prompts in **any language** — perfect for game developers and entertainment bots. |
-| 🪐 **Multilingual AI Zodiac – Customized Horoscope Generator** | AI-powered horoscope generator offering **daily, love, career, and fun modes** for all zodiac signs, available in 60+ languages. |
-| 🎓 **Udemy Coupons, Courses & Instructors API** | Fetch **live Udemy deals, coupons, and instructor data** from verified partners — ideal for education and affiliate projects. |
-| 🌐 **Advanced Multilanguage AI Translator** | Neural-powered translation API for **100+ world languages**, delivering context-aware and tone-consistent results. |
-| 🌍 **World Fun Facts – All-Languages API** | Discover interesting facts from around the world in 60+ languages — great for trivia apps, chatbots, and daily fact feeds. |
-| 🎰 **Poker Odds + Equity / EV Calculator & Simulator** | Calculate real-time **poker win/tie probabilities, hand equities, and expected values** for multi-player scenarios using Monte Carlo simulations. |
+| 💬 [**AI Text Moderation, Sentiment & Toxicity Analyzer**](https://github.com/AndriiPiatakha/ai-text-moderation-sentiment-analyzer) | Multilingual AI API for analyzing **sentiment, toxicity, emotion, and aspect-based opinions** — ideal for comments, reviews, and feedback moderation. |
+| 🎞️ [**Smart, Adaptive & Ultra-Fast Image Converter**](https://github.com/AndriiPiatakha/image-compressor-converter) | Compress, resize, and convert images intelligently (JPEG ↔ WebP/AVIF/PNG) with **smart adaptive quality control** and EXIF-cleaning. |
+| 🧾 [**AI Meeting Minutes Suite**](https://github.com/AndriiPiatakha/ai-meeting-minutes-suite) | Generate AI-powered **meeting summaries, action items, and minutes** from raw text, audio transcripts, or chat logs. Perfect for business teams. |
+| 🧠 [**AI Learning Engine – Task Creation & Checker**](https://github.com/AndriiPiatakha/ai-learning-engine) | Create, check, and evaluate quizzes, exercises, and open questions with instant **AI feedback, explanations, and adaptive difficulty.** |
+| 🎭 [**Multilingual Truth or Dare – Party & Fun Game API**](https://github.com/AndriiPiatakha/truth-or-dare-multilingual) | Generate fun, flirty, or party-ready “Truth or Dare” prompts in **any language** — perfect for game developers and entertainment bots. |
+| 🪐 [**Multilingual AI Zodiac – Customized Horoscope Generator**](https://github.com/AndriiPiatakha/ai-horoscopes-multilingual) | AI-powered horoscope generator offering **daily, love, career, and fun modes** for all zodiac signs, available in 60+ languages. |
+| 🎓 [**Udemy Coupons, Courses & Instructors API**](https://github.com/AndriiPiatakha/udemy-coupons-courses-instructors) | Fetch **live Udemy deals, coupons, and instructor data** from verified partners — ideal for education and affiliate projects. |
+| 🌐 [**Advanced Multilanguage AI Translator**](https://github.com/AndriiPiatakha/multilanguage-ai-translator) | Neural-powered translation API for **100+ world languages**, delivering context-aware and tone-consistent results. |
+| 🌍 [**World Fun Facts – All-Languages API**](https://github.com/AndriiPiatakha/world-fun-facts-multilanguage) | Discover interesting facts from around the world in 60+ languages — great for trivia apps, chatbots, and daily fact feeds. |
+| 🎰 [**Poker Odds + Equity / EV Calculator & Advisor**](https://github.com/AndriiPiatakha/poker-odds-equity-ev-calculator) | Calculate real-time **poker win/tie probabilities, hand equities, and expected values** for multi-player scenarios using Monte Carlo simulations. |
 | 🧮 **Vintarok API Suite (FREE Collection)** | Access all APIs from one hub — including text analysis, translation, education, entertainment, and image tools. Available on [RapidAPI](https://rapidapi.com/organization/vintarok). |
 
-👉 Explore all APIs here: **[Vintarok API on RapidAPI](https://rapidapi.com/organization/vintarok)**  
+👉 Explore all APIs here: **[Vintarok API on RapidAPI](https://rapidapi.com/organization/vintarok)**
 
 ---
 
